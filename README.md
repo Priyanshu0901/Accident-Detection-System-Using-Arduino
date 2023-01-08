@@ -10,7 +10,7 @@ If the impact is detected and it is beyond the threshold limit then the GSM will
 # Module
 ![Finished Module](https://user-images.githubusercontent.com/52269169/211181527-edeeb644-4ae4-423b-ab26-1aac0009f51c.jpeg)
 # Circuit Diagram
-
+![Circuit Diagram](https://user-images.githubusercontent.com/52269169/211181716-be84142a-cb0a-406a-8c74-55c396f1319f.png)
 # Future enhancement
 The next gen prototype will be completely fabricated inside the helmet.
 Will replace the current microprocessor to lily so that it can be placed enoughly inside the helmet with respect to the space.
