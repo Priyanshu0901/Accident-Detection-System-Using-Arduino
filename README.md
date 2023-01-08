@@ -7,6 +7,8 @@ The module is used to detect the impact by the following cases
 One is the piezoelectric plates which calculates the change in the pressure which ensures that there is some impact.
 Another one is the gyro which senses the angular velocity that gives us the sudden change in the rotation again that ensures that there is some accident.
 If the impact is detected and it is beyond the threshold limit then the GSM will send the required data as a SOS.
+# Module
+Accident-Detection-System-Using-Arduino/Pic/Finished Module.jpeg
 # Future enhancement
 The next gen prototype will be completely fabricated inside the helmet.
 Will replace the current microprocessor to lily so that it can be placed enoughly inside the helmet with respect to the space.
