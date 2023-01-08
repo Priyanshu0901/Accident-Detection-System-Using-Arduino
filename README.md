@@ -8,7 +8,9 @@ One is the piezoelectric plates which calculates the change in the pressure whic
 Another one is the gyro which senses the angular velocity that gives us the sudden change in the rotation again that ensures that there is some accident.
 If the impact is detected and it is beyond the threshold limit then the GSM will send the required data as a SOS.
 # Module
-Accident-Detection-System-Using-Arduino/Pic/Finished Module.jpeg
+![Finished Module](https://user-images.githubusercontent.com/52269169/211181527-edeeb644-4ae4-423b-ab26-1aac0009f51c.jpeg)
+# Circuit Diagram
+
 # Future enhancement
 The next gen prototype will be completely fabricated inside the helmet.
 Will replace the current microprocessor to lily so that it can be placed enoughly inside the helmet with respect to the space.
